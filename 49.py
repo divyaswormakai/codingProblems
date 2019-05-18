@@ -8,3 +8,8 @@
 # Do this in O(N) time.
 
 maxSum =0
+a = [34,-50,42,14,-5,86]
+
+for i in range(len(a)):
+	temp == a[0:i]
+	

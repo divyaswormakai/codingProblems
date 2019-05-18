@@ -20,5 +20,5 @@
 words = ["she","sells","sea","shells","by","the","sea","shore"]
 k=10
 
-for i in range(0,len(words)):
-	
+for i in range(1,len(words)):
+	if(len(words[i]) + len(words[i-1])+2)<k
