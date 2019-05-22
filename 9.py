@@ -5,3 +5,8 @@
 # since we pick 5 and 5.
 
 # Follow-up: Can you do this in O(N) time and constant space?
+
+a=[2,4,6,2,5]
+max=a[0]
+for i in range(0,len(a)):
+	
